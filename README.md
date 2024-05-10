@@ -1,7 +1,7 @@
 
 ## 📞 Athena: Super e Apoio para Mulheres Vítimas de Violência Doméstica
 
-
+![Athenas-logo-preview](https://github.com/Laissa0/project-Athena/assets/97559065/7718336d-04c4-43e4-b051-8e6b48ceb7d3)
 ### Visão Geral
 
 Athena é um chatbot desenvolvido com um propósito: fornecer apoio, orientação e recursos essenciais para mulheres que enfrentam situações de violência doméstica. Este projeto surge da necessidade urgente de oferecer uma rede de suporte segura e confiável para aquelas que estão em situações vulneráveis, garantindo que elas tenham acesso às informações e assistência necessárias para se proteger e buscar ajuda.
